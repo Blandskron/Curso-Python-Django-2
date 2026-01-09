@@ -8,3 +8,6 @@ class Cliente:
     def __init__(self, nombre: str, direccion: Direccion):
         self.nombre = nombre
         self.direccion = direccion    # mantiene referencia
+
+micasa = Direccion("Calle Falsa 123", "Springfield")
+cliente = Cliente("Homero Simpson", micasa)
