@@ -13,13 +13,21 @@ class Perro(Animal):
 class Gato(Animal):
     def sonido(self) -> str:
         return "Miau"
+    
+class Instrumento():
+    def sonido(self):
+        return "Sonar"
+
+class Flauta(Instrumento):
+    def sonido(self):
+        return "Melodia"
 
 # Ejemplo 4: Polimorfismo con una función genérica
 
-def hacer_sonar(animal: Animal) -> None:
-    print(animal.sonido())
+def hacer_sonar(sonido) -> None:
+    print(sonido.sonido())
 
 
-animales: list[Animal] = [Perro(), Gato(), Animal()]
-for a in animales:
+elementos: list[Animal, Instrumento] = [Perro(), Gato(), Animal(), Instrumento(), Flauta()]
+for a in elementos:
     hacer_sonar(a)
