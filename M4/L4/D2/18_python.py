@@ -14,3 +14,10 @@ class NodoConHijos(NodoBase):
         super().__init__(valor)
         self.izq = izq
         self.der = der
+
+# Hojas
+nodo_1 = NodoConHijos(1)
+nodo_3 = NodoConHijos(3)
+
+# Nodo padre
+raiz = NodoConHijos(2, izq=nodo_1, der=nodo_3)
