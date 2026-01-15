@@ -8,3 +8,5 @@ def pedir_entero() -> int:
             print("Debe ingresar un entero.")
         else:
             return valor
+
+pedir_entero()

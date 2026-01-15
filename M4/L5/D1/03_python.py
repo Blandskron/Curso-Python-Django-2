@@ -6,3 +6,5 @@ def dividir(a: float, b: float) -> float | None:
     except ZeroDivisionError:
         print("No se puede dividir por cero")
         return None
+    
+print(dividir(5, 0))
