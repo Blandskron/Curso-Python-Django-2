@@ -1,0 +1,12 @@
+def sumar(a, b):
+    return a + b
+
+def test_sumar():
+    assert sumar(2, 3, 8) == 5
+    assert sumar(-1, 1) == 0
+    assert sumar(0, 0) == 0
+    assert sumar(2.5, 2.5) == 5.0
+
+if __name__ == "__main__":
+    test_sumar()
+    print("✅ Todos los tests pasaron correctamente")
