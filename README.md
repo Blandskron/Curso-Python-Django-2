@@ -1,17 +1,19 @@
-🐍 **Bootcamp: Desarrollo de Aplicaciones Full Stack Python Trainee V2.0**
+**Bootcamp: Desarrollo de Aplicaciones Full Stack Python Trainee V2.0**
 
 Bienvenido al repositorio oficial del programa **Desarrollo de Aplicaciones Full Stack Python Trainee V2.0**, una iniciativa impulsada por **SENCE**, **Talento Digital para Chile** y **Sustantiva OTEC**, facilitada por el relator **Bastián Landskron** con el apoyo del ayudante académico **Daniel Marín**.
 
 Este bootcamp forma a desarrolladores capaces de construir aplicaciones web completas con **Python** y **Django**, integrando front-end, back-end y bases de datos, aplicando buenas prácticas de programación y metodologías ágiles.
 
+Para una descripción más detallada del contenido del repositorio y su organización real, revisa el archivo **[DOCUMENTACION_PROYECTO.md](DOCUMENTACION_PROYECTO.md)**.
+
 ---
 
-🧠 **Propósito del Programa**  
+**Propósito del Programa**  
 Formar profesionales competentes en el desarrollo **Full Stack con Python**, capaces de diseñar, programar, integrar y desplegar soluciones web seguras, escalables y mantenibles, alineadas a necesidades reales de la industria.
 
 ---
 
-📚 **Plan Formativo (Total: 462 horas)**
+**Plan Formativo (Total: 462 horas)**
 
 | Nº | Módulo                                                                 | Horas |
 |----|------------------------------------------------------------------------|------:|
@@ -28,7 +30,7 @@ Formar profesionales competentes en el desarrollo **Full Stack con Python**, cap
 
 ---
 
-🧰 **Herramientas y Tecnologías**  
+**Herramientas y Tecnologías**  
 Python 3, Django • HTML5, CSS3, Bootstrap, JavaScript  
 PostgreSQL / MySQL / SQLite • ORM Django  
 Git & GitHub • Visual Studio Code / PyCharm • Postman  
@@ -37,51 +39,16 @@ Metodologías ágiles (Scrum/Kanban) y control de versiones
 
 ---
 
-🧑‍🏫 **Facilitación y Acompañamiento**  
+**Facilitación y Acompañamiento**  
 **Relator Principal:** Bastián Landskron — Desarrollador full stack y arquitecto de software con foco en aplicaciones web y buenas prácticas.  
 **Ayudante Académico:** Patricia Olivares — Apoyo técnico en sesiones prácticas, revisión de ejercicios y mentoría de portafolios.
 
 ---
 
-🏛️ **Instituciones Organizadoras**  
+**Instituciones Organizadoras**  
 - **SENCE**  
 - **Talento Digital para Chile**  
 - **Sustantiva OTEC**
-
----
-
-📂 **Organización del Repositorio**
-
-```
-
-📁 M1/
-│   └── orientacion_metodologia.md
-📁 M2/
-│   └── fundamentos_frontend/
-│       ├── html_css/
-│       └── js_basico/
-📁 M3/
-│   └── fundamentos_python/
-📁 M4/
-│   └── python_avanzado_v2/
-📁 M5/
-│   └── bases_de_datos_relacionales/
-📁 M6/
-│   └── django_web_v2/
-📁 M7/
-│   └── acceso_datos_django_v2/
-📁 M8/
-│   └── portafolio_producto_digital/
-📁 M9/
-│   └── empleabilidad_industria_digital/
-
-```
-
-Cada módulo incluye:
-- Guías teóricas y checklists de competencias  
-- Ejercicios prácticos y laboratorios  
-- Desafíos aplicados y entregables de proyecto  
-- Recursos para portafolio y empleabilidad
 
 ---
 
